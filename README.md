@@ -1,7 +1,4 @@
 <html>
-  <head>
-    <title>About Me</title>
-  </head>
   <body>
     <h1>Hi, I'm victo_lin 👋</h1>
     <p>
